@@ -1,6 +1,5 @@
 package com.progresssoft.manishkr.validate;
 
-import com.progresssoft.manishkr.controller.ImportDealsController;
 import com.progresssoft.manishkr.dao.DealDao;
 import com.progresssoft.manishkr.dao.InvalidDealDao;
 import com.progresssoft.manishkr.model.Deal;

@@ -1,7 +1,6 @@
 package com.progresssoft.manishkr.util;
 
 import com.progresssoft.manishkr.exception.FileMoveException;
-import com.progresssoft.manishkr.service.ImportDealsServiceImpl;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

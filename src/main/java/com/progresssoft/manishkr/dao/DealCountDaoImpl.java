@@ -1,6 +1,5 @@
 package com.progresssoft.manishkr.dao;
 
-import com.progresssoft.manishkr.controller.ImportDealsController;
 import com.progresssoft.manishkr.model.DealCount;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Repository;
