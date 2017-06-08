@@ -31,7 +31,6 @@ public class ImportDealsController {
     @Value("${unprocessed.file.folder}")
     private String unprocessedFileFolder;
 
-    private static int counter = 0;
     private final static org.slf4j.Logger logger = LoggerFactory.getLogger(ImportDealsController.class);
 
     @RequestMapping(value = "/all", method = RequestMethod.GET)
